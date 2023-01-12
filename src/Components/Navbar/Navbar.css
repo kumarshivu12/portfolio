@@ -1,0 +1,6 @@
+.MuiDrawer-paper {
+    border-radius: 0px 0px 20px 20px;
+    box-shadow:20px white !important;
+    /* width:-webkit-full; */
+    margin-top: 82px;
+}
